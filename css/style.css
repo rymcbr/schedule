@@ -1,0 +1,216 @@
+/* # */
+
+/* A */
+.a {
+    background: #bdbdbd;
+    color: #fff;
+}
+a.brand-logo {
+    color: #01579b;
+}
+
+/* B */
+.block-1 {
+    height: 90px;
+}
+.block-2 {
+    height: 110px;
+}
+.block-3 {
+    height: 90px;
+}
+.block-4 {
+    height: 130px;
+}
+.block-5 {
+    height: 90px;
+}
+.b {
+    background: #000;
+    color: #fff;
+}
+.button-collapse {
+    color: #01579b;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background: #ececec;
+}
+
+/* C */
+.container-fluid {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.c {
+    background: #ffa726;
+    color: #fff;
+}
+.colorful-modal {
+    height: 120px;
+    padding-left: 5%;
+}
+.colorful-modal span {
+    font-size: 30px;
+    font-weight: 500;
+    position: relative;
+    top: 70px;
+}
+
+/* D */
+.d {
+    background: #448aff;
+    color: #fff;
+}
+
+/* E */
+.e {
+    background: #fdd835;
+    color: #fff;
+}
+
+/* F */
+.f {
+    background: #81c784;
+    color: #fff;
+}
+footer.page-footer {
+  margin: 0;
+}
+footer {
+    background: #01579b !important;
+}
+
+/* G */
+.g {
+    background: #ff80ab;
+    color: #fff;
+}
+
+/* H */
+.h {
+    background: #f44336;
+    color: #fff;
+}
+.half-block-1 {
+    height: 110px;
+}
+.half-block-2 {
+    height: 80px;
+}
+.half-block-3 {
+    height: 110px;
+}
+.half-block-4 {
+    height: 110px;
+}
+
+/* I */
+.indent {
+    text-indent: 20px;
+}
+
+/* J */
+
+/* K */
+
+/* L */
+.light {
+    font-weight: 100;
+}
+
+/* M */
+.modal-content {
+    padding: 0px !important;
+}
+.misc-color {
+    background: #01579b;
+    color: #fff;
+}
+main {
+    flex: 1 0 auto;
+}
+
+/* N */
+
+/* O */
+
+/* P */
+p {
+    font-size: 1.2rem;
+}
+
+/* Q */
+
+/* R */
+
+/* S */
+.side-nav li a {
+    color: #01579b;
+}
+
+.side-nav .userInfo {
+    position: relative;
+    top: 55px;
+}
+
+.side-nav .userInfo a.other {
+    font-size: 13px;
+    font-weight: 500 !important;
+    display: block;
+    padding: 0px;
+}
+
+.side-nav .userInfo a.other:hover {
+    background: transparent;
+}
+
+.side-nav .userInfo span.name {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 15px;
+}
+
+.side-nav li.userView {
+    background-image: url(../background1.jpg);
+    height: 130px;
+    background-size: cover;
+    margin-bottom: 0px;
+}
+
+.side-nav.fixed .userInfo{
+    position: relative;
+    top: 45px;
+}
+
+.side-nav .divider {
+    margin-top: 0px;
+}
+
+/* T */
+.thin {
+    font-weight: 300;
+}
+.tabs li a {
+    color: #01579b !important;
+}
+.tabs .indicator {
+    background: #01579b !important;
+}
+
+/* U */
+
+/* V */
+.valign-wrapper a, p {
+    width: 100%;
+}
+
+/* W */
+
+/* X */
+
+/* Y */
+
+/* Z */
